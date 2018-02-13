@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/playapps/HelloWorld/app/controllers/HomeController.java:18:20: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok("Hellow World);[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/playapps/HelloWorld/app/controllers/HomeController.java:21:2: `}' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
